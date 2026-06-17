@@ -1,0 +1,134 @@
+subtype,cell_types
+Lamp5 Krt73,Lamp5
+Lamp5 Fam19a1 Pax6,Lamp5
+Lamp5 Fam19a1 Tmem182,Lamp5
+Lamp5 Ntn1 Npy2r,Lamp5
+Lamp5 Plch2 Dock5,Lamp5
+Lamp5 Lsp1,Lamp5
+Lamp5 Lhx6,Lamp5
+Sncg Slc17a8,Sncg
+Sncg Vip Nptx2,Sncg
+Sncg Gpr50,Sncg
+Sncg Vip Itih5,Sncg
+Serpinf1 Clrn1,Serpinf1
+Serpinf1 Aqp5 Vip,Serpinf1
+Vip Igfbp6 Car10,Vip
+Vip Igfbp6 Pltp,Vip
+Vip Igfbp4 Mab21l1,Vip
+Vip Arhgap36 Hmcn1,Vip
+Vip Gpc3 Slc18a3,Vip
+Vip Lmo1 Fam159b,Vip
+Vip Lmo1 Myl1,Vip
+Vip Ptprt Pkp2,Vip
+Vip Rspo4 Rxfp1 Chat,Vip
+Vip Lect1 Oxtr,Vip
+Vip Rspo1 Itga4,Vip
+Vip Chat Htr1f,Vip
+Vip Pygm C1ql1,Vip
+Vip Crispld2 Htr2c,Vip
+Vip Crispld2 Kcne4,Vip
+Vip Col15a1 Pde1a,Vip
+Sst Chodl,Sst
+Sst Mme Fam114a1,Sst
+Sst Tac1 Htr1d,Sst
+Sst Tac1 Tacr3,Sst
+Sst Calb2 Necab1,Sst
+Sst Calb2 Pdlim5,Sst
+Sst Nr2f2 Necab1,Sst
+Sst Myh8 Etv1,Sst
+Sst Myh8 Fibin,Sst
+Sst Chrna2 Glra3,Sst
+Sst Chrna2 Ptgdr,Sst
+Sst Tac2 Myh4,Sst
+Sst Hpse Sema3c,Sst
+Sst Hpse Cbln4,Sst
+Sst Crhr2 Efemp1,Sst
+Sst Crh 4930553C11Rik,Sst
+Sst Esm1,Sst
+Sst Tac2 Tacstd2,Sst
+Sst Rxfp1 Eya1,Sst
+Sst Rxfp1 Prdm8,Sst
+Sst Nts,Sst
+Pvalb Gabrg1,Pvalb
+Pvalb Th Sst,Pvalb
+Pvalb Akr1c18 Ntf3,Pvalb
+Pvalb Calb1 Sst,Pvalb
+Pvalb Sema3e Kank4,Pvalb
+Pvalb Gpr149 Islr,Pvalb
+Pvalb Reln Tac1,Pvalb
+Pvalb Reln Itm2a,Pvalb
+Pvalb Tpbg,Pvalb
+Pvalb Vipr2,Pvalb
+L2/3 IT VISp Rrad,L2/3 IT
+L2/3 IT VISp Adamts2,L2/3 IT
+L2/3 IT VISp Agmat,L2/3 IT
+L2/3 IT ALM Sla,L2/3 IT
+L2/3 IT ALM Ptrf,L2/3 IT
+L2/3 IT ALM Macc1 Lrg1,L2/3 IT
+L4 IT VISp Rspo1,L4 IT
+L5 IT VISp Hsd11b1 Endou,L5 IT
+L5 IT VISp Whrn Tox2,L5 IT
+L5 IT VISp Batf3,L5 IT
+L5 IT VISp Col6a1 Fezf2,L5 IT
+L5 IT VISp Col27a1,L5 IT
+L5 IT ALM Npw,L5 IT
+L5 IT ALM Pld5,L5 IT
+L5 IT ALM Cbln4 Fezf2,L5 IT
+L5 IT ALM Lypd1 Gpr88,L5 IT
+L5 IT ALM Tnc,L5 IT
+L5 IT ALM Tmem163 Dmrtb1,L5 IT
+L5 IT ALM Tmem163 Arhgap25,L5 IT
+L5 IT ALM Cpa6 Gpr88,L5 IT
+L5 IT ALM Gkn1 Pcdh19,L5 IT
+L6 IT ALM Tgfb1,L6 IT
+L6 IT ALM Oprk1,L6 IT
+L6 IT VISp Penk Col27a1,L6 IT
+L6 IT VISp Penk Fst,L6 IT
+L6 IT VISp Col23a1 Adamts2,L6 IT
+L6 IT VISp Col18a1,L6 IT
+L6 IT VISp Car3,L6 IT
+L5 PT VISp Chrna6,L5 PT
+L5 PT VISp Lgr5,L5 PT
+L5 PT VISp C1ql2 Ptgfr,L5 PT
+L5 PT VISp C1ql2 Cdh13,L5 PT
+L5 PT VISp Krt80,L5 PT
+L5 PT ALM Slco2a1,L5 PT
+L5 PT ALM Npsr1,L5 PT
+L5 PT ALM Hpgd,L5 PT
+L5 NP VISp Trhr Cpne7,L5 NP
+L5 NP ALM Trhr Nefl,L5 NP
+L5 NP VISp Trhr Met,L5 NP
+L6 NP ALM Trh,L6 NP
+L6 CT ALM Cpa6,L6 CT
+L6 CT ALM Nxph2 Sla,L6 CT
+L6 CT VISp Nxph2 Wls,L6 CT
+L6 CT VISp Gpr139,L6 CT
+L6 CT VISp Ctxn3 Brinp3,L6 CT
+L6 CT VISp Ctxn3 Sla,L6 CT
+L6 CT VISp Krt80 Sla,L6 CT
+L6b VISp Col8a1 Rprm,L6b
+L6b VISp Mup5,L6b
+L6b VISp Col8a1 Rxfp1,L6b
+L6b ALM Olfr111 Spon1,L6b
+L6b ALM Olfr111 Nxph1,L6b
+L6b P2ry12,L6b
+L6b VISp Crh,L6b
+L6b Hsd17b2,L6b
+Meis2 Adamts19,Meis2
+CR Lhx5,CR
+Astro Aqp4,Astro
+OPC Pdgfra Grm5,OPC
+OPC Pdgfra Ccnb1,OPC
+Oligo Rassf10,Oligo
+Oligo Serpinb1a,Oligo
+Oligo Synpr,Oligo
+VLMC Osr1 Cd74,VLMC
+VLMC Osr1 Mc5r,VLMC
+VLMC Spp1 Hs3st6,VLMC
+VLMC Spp1 Col15a1,VLMC
+Peri Kcnj8,Peri
+SMC Acta2,SMC
+Endo Ctla2a,Endo
+Endo Cytl1,Endo
+PVM Mrc1,PVM
+Microglia Siglech,Microglia
